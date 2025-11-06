@@ -27,7 +27,7 @@ NAVBAR = {
     "Analysis": {
 
         "Home": {"icon": "bi bi-house", "relative_path": "/"},
-        "Aider Polyglot": {"icon": "bi bi-currency-dollar", "relative_path": "/aider_polyglot_dashboard"},
+        "Aider Polyglot": {"icon": "bi bi-currency-dollar", "relative_path": "aider_polyglot_dashboard"},
         "Balrog": {"icon": "bi bi-bar-chart", "relative_path": "/balrog_dashboard"},
         "CommonsenseQA2": {"icon": "bi bi-question-circle", "relative_path": "/commonsenseqa2_dashboard"},
         "ANLI": {"icon": "bi bi-lightning", "relative_path": "/anli_dashboard"},
